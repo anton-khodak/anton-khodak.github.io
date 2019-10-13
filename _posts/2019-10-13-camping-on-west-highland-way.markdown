@@ -343,4 +343,8 @@ but WHW can give an excellent camping experience and is still incredibly pleasin
 
 
 [google_map]: https://www.google.com/maps/d/u/0/viewer?mid=13J88-UenEQPCX39CF7feky22B04&ll=56.38415872929359%2C-4.716030499999988&z=9
-{% include disqus.html %}
+
+
+## Comments
+13 X 2019 Wojtek
+Very good pictures! I really like how lushness and greenery gives way to mist, and then a progressingly more desolate landscape. The riot police was a good addition, but I wasn't sure what they are supposed to represent, and they could have been depicted like they were in full gear. Alisa having to drop out mid-way through the journey makes the trim suddenly get more serious, but it makes the few more pictures together feel all the more precious. I don't like the practicality of the advice at the end: instead of insights about travel being a window into the human condition, there's this opinion on a deal - 40 pounds for the Sherpas' aid - which comes suddenly, as they weren't a part of the story.
