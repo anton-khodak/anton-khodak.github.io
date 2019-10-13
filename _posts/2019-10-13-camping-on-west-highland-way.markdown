@@ -135,7 +135,7 @@ We started off at about 12:30, and at the lunch break, we had the turning point 
 Due to the late start and limited opportunities to leave the route at this point, 
 we made a very short progress and decided to settle on an unmanaged campsite. 
 
-# Day 4. Rowardennan to Beinglas Farm Campsit, 24.6 km
+# Day 4. Rowardennan to Beinglas Farm, 24.6 km
 
 The night near the lake was the harshest in the whole journey – it was raining all night long with a strong wind, I woke up multiple times to check whether our tent had been withstanding the wind fine.
 
