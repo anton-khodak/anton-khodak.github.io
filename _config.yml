@@ -10,7 +10,7 @@ description: >
   My personal blog about travelling, programming, book summaries, my photos, and whatever
 url: https://anton-khodak.github.io
 twitter_username: anton_khodak
-default_img: /assets/images/seo.jpg
+default_img: /assets/images/anton-pic.jpg
 social:
   - name: twitter
     url: https://twitter.com/anton_khodak
