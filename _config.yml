@@ -63,9 +63,9 @@ autopages:
 
 # Build settings
 markdown: kramdown
-plugins:
-  - jekyll-paginate-v2
-  - jekyll-sitemap
+# plugins:
+#   - jekyll-paginate-v2
+#   - jekyll-sitemap
 compress_html:
   clippings: all
   comments: all
