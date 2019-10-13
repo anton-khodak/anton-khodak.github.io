@@ -3,6 +3,8 @@ layout: post
 title:  "Camping on West Highland Way"
 date:   2019-10-12 17:10:25 +0100
 categories: travelling
+image: /assets/images/scotland/IMG_20190907_162508.jpg
+author: Anton Khodak
 ---
 
 # Introduction
