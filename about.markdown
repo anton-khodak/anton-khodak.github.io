@@ -15,7 +15,7 @@ M: I lived a long life, but I still didn't understand one thing.
 Tell me, what was the purpose of my life?
 P: Do you really want to know that?
 M: Absolutely.
-P: Do you remember when you went on a train Moscow-Kransodar in 1973?
+P: Do you remember when you went for vacation by train Moscow-Kransodar in 1973?
 M: Umm... well..
 P: And you also met some fellow travellers in the compartment. 
 M: Yeah, I guess so...
