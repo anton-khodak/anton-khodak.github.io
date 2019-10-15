@@ -1,0 +1,8 @@
+em{
+    display: block;
+    text-align: center;
+}
+
+#markdown li>p{
+    font-size: 1em;
+}
